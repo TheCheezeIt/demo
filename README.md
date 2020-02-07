@@ -4,4 +4,4 @@ This is the addition of more text.
 
 Adding a tertiary commit
 
-I hope that this isn't much of a problem.
+This is going to cause trouble and part of the bad branch.
