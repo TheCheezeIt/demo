@@ -7,3 +7,5 @@ Adding a tertiary commit
 This is going to cause trouble and part of the bad branch.
 
 Adding another modification
+
+Adding a modification for branching, on a branch
